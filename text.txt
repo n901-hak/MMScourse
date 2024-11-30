@@ -17,4 +17,4 @@ rm -rf .git (git ကို အစကနေပြန်သုံးမယ်ဆ�
 git checkout -b "name" - branch အသစ်ပေးတာ 
 git checkout name (ရှိပြီးသားကို ပြန်သွားတာ)
 
-commit ပြီးမှ checkout လုပ်ပါ
+commit ပြီးမှ checkout လုပ်ပါတဲ့ 
