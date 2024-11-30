@@ -4,11 +4,12 @@ git add .
 git commit -m "message"
 git push origin main
 
+git config --get remote.origin.url (ဘာနဲ့ ချိတ်ထားမှန်းသိအောင်)
+git remote remove origin (origin ကို ဖျက်)
+git remote -v 
 
 git branch -a (check the git branches)
 
 
 rm -rf .git (git ကို အစကနေပြန်သုံးမယ်ဆိုရင် git ကို ဖျက်ပေးရတယ်)
 
-git checkout -b "name" - branch အသစ်ပေးတာ 
-git checkout name (ရှိပြီးသားကို ပြန်သွားတာ)
