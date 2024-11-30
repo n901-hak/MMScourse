@@ -6,3 +6,11 @@ git push origin main
 
 
 git branch -a (check the git branches)
+
+
+rm -rf .git (git ကို အစကနေပြန်သုံးမယ်ဆိုရင် git ကို ဖျက်ပေးရတယ်)
+
+git checkout -b "name" - branch အသစ်ပေးတာ 
+git checkout name (ရှိပြီးသားကို ပြန်သွားတာ)
+
+commit ပြီးမှ checkout လုပ်ပါ
