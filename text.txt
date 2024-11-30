@@ -12,3 +12,9 @@ git branch -a (check the git branches)
 
 
 rm -rf .git (git ကို အစကနေပြန်သုံးမယ်ဆိုရင် git ကို ဖျက်ပေးရတယ်)
+
+
+git clone url name
+
+ဘာမှမလုပ်ခင် အရင် Pull ပါ 
+git pull origin name
